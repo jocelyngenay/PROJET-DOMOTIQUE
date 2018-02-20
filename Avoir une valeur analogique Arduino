@@ -11,4 +11,9 @@ void loop (){
 Serial.println(value);
 delay(1000);
 }
+
+Voici un essai pour ajouter
+quelque
+lignes à mon programme, voir si ça ce synchronise avec le pc
+
   
